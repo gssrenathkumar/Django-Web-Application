@@ -22,6 +22,6 @@
 	<h3>Profile Page</h3>
 	<img src="profile.png" alt="Profile Page">
 	<h3>Upload Files</h3>
-	<img src="images/upload.png" alt="Upload Files">
+	<img src="upload.png" alt="Upload Files">
 </body>
 </html>
