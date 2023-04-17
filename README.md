@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Django-WebApp</title>
-</head>
+
 <body>
 	<h1>Django-WebApp</h1>
 	<p>This project was done for an internship at Qurinom Solutions.</p>
